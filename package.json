@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "@opengsn/cli": "^3.0.0-beta.6",
+    "@opengsn/contracts": "^3.0.0-beta.6",
+    "@openzeppelin/contracts": "^4.9.2"
+  },
+  "devDependencies": {
+    "hardhat": "^2.16.1"
+  }
+}
